@@ -1,2 +1,2 @@
-Python 3.6
+image::https://img.shields.io/badge/python-3.6+-orange.svg[link=https://www.python.org/downloads/release/python-367/]
 Tested Cos functionality with behave
