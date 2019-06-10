@@ -1,2 +1,1 @@
-python==3.6
 behave==1.2.6
